@@ -1,0 +1,14 @@
+[
+  {
+    "skillLevelId": 1,
+    "description": "Beginner"
+  },
+  {
+    "skillLevelId": 2,
+    "description": "Intermediate"
+  },
+  {
+    "skillLevelId": 3,
+    "description": "Advanced"
+  }
+]

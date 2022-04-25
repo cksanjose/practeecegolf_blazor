@@ -1,0 +1,627 @@
+[
+  {
+	  "shotResultId": 1,
+    "shotType": "Fairway",
+	  "result": "Ball in the middle of the fairway",
+	  "distanceToGreen": 0,
+    "comment": "Way to go! Do it again!",
+    "option": [
+      {
+        "par": 3,
+        "shotCount": 1,
+        "skillLevel": [1,2]
+      },
+      {
+        "par": 4,
+        "shotCount": 1,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 2,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 3,
+        "skillLevel": [1,2]
+      },
+      {
+        "par": 5,
+        "shotCount": 1,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 2,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 3,
+        "skillLevel": [1,2]
+      },
+      {
+        "par": 5,
+        "shotCount": 4,
+        "skillLevel": [1]
+      }
+    ],
+    "childResult": null
+  },
+  {
+    "shotResultId": 2,
+    "shotType": "Rough",
+    "result": "Ball in the rough",
+    "distanceToGreen": 0,
+    "comment": "Use your best club that will get you on to the fairway",
+    "option": [
+      {
+        "par": 3,
+        "shotCount": 1,
+        "skillLevel": [1,2]
+      },
+      {
+        "par": 4,
+        "shotCount": 1,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 2,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 3,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 1,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 2,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 3,
+        "skillLevel": [1,2]
+      },
+      {
+        "par": 5,
+        "shotCount": 4,
+        "skillLevel": [1]
+      }
+    ],
+    "childResult": null
+  },
+  {
+    "shotResultId": 3,
+    "shotType": "Chip Out",
+    "result": "Ball in the trees",
+    "distanceToGreen": 0,
+    "comment": "Practice chipping out with low trajectory shot. A long iron or hybrid is a good club to use.",
+    "option": [
+      {
+        "par": 3,
+        "shotCount": 1,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 1,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 2,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 3,
+        "skillLevel": [1,2]
+      },
+      {
+        "par": 5,
+        "shotCount": 1,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 2,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 3,
+        "skillLevel": [1,2]
+      },
+      {
+        "par": 5,
+        "shotCount": 4,
+        "skillLevel": [1,2]
+      }
+    ],
+    "childResult": [1, 2, 11, 12, 13, 14]
+  },
+  {
+    "shotResultId": 4,
+    "shotType": "Putt",
+    "result": "Ball on the green",
+    "distanceToGreen": 0,
+    "comment": "Great job!",
+    "option": [
+      {
+        "par": 3,
+        "shotCount": 1,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 2,
+        "skillLevel": [2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 3,
+        "skillLevel": [2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 2,
+        "skillLevel": [3]
+      },
+      {
+        "par": 5,
+        "shotCount": 3,
+        "skillLevel": [2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 4,
+        "skillLevel": [1,2]
+      }
+    ],
+    "childResult": null
+  },
+  {
+    "shotResultId": 5,
+    "shotType": "Bunker",
+    "result": "Ball in the fairway bunker",
+    "distanceToGreen": 0,
+    "comment": "Use your best club that will get you on to the fairway. Hit the ball first!",
+    "option": [
+      {
+        "par": 3,
+        "shotCount": 1,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 2,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 3,
+        "skillLevel": [1,2]
+      },
+      {
+        "par": 5,
+        "shotCount": 2,
+        "skillLevel": [2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 3,
+        "skillLevel": [2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 4,
+        "skillLevel": [1]
+      }
+    ],
+    "childResult": [1, 2, 11, 12, 13, 14, 15]
+  },
+  {
+    "shotResultId": 6,
+    "shotType": "Bunker",
+    "result": "Ball in the green-side bunker",
+    "distanceToGreen": 0,
+    "comment": "Use your best club that will get you of the beach. Hit the behind the ball!",
+    "option": [
+      {
+        "par": 3,
+        "shotCount": 1,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 3,
+        "shotCount": 2,
+        "skillLevel": [1,2]
+      },
+      {
+        "par": 4,
+        "shotCount": 2,
+        "skillLevel": [2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 3,
+        "skillLevel": [1,2]
+      },
+      {
+        "par": 5,
+        "shotCount": 2,
+        "skillLevel": [3]
+      },
+      {
+        "par": 5,
+        "shotCount": 3,
+        "skillLevel": [2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 4,
+        "skillLevel": [1,2]
+      }
+    ],
+    "childResult": [4, 7, 9]
+  },
+  {
+    "shotResultId": 7,
+    "shotType": "Chip",
+    "result": "Ball in the green-side rough",
+    "distanceToGreen": 0,
+    "comment": "Use your best club to stick it close to the hole. Pick a target where you want the ball to land.",
+    "option": [
+      {
+        "par": 3,
+        "shotCount": 1,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 3,
+        "shotCount": 2,
+        "skillLevel": [1,2]
+      },
+      {
+        "par": 4,
+        "shotCount": 2,
+        "skillLevel": [2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 3,
+        "skillLevel": [2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 2,
+        "skillLevel": [2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 3,
+        "skillLevel": [2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 4,
+        "skillLevel": [2]
+      }
+    ],
+    "childResult": [4, 6, 9]
+  },
+  {
+    "shotResultId": 8,
+    "shotType": "Rough",
+    "result": "Ball in the first cut rough of the fairway",
+    "distanceToGreen": 0,
+    "comment": "Use your best club that will get you on to the fairway",
+    "option": [
+      {
+        "par": 3,
+        "shotCount": 1,
+        "skillLevel": [1,2]
+      },
+      {
+        "par": 4,
+        "shotCount": 2,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 3,
+        "skillLevel": [1,2]
+      },
+      {
+        "par": 5,
+        "shotCount": 2,
+        "skillLevel": [3]
+      },
+      {
+        "par": 5,
+        "shotCount": 3,
+        "skillLevel": [2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 4,
+        "skillLevel": [1]
+      }
+    ],
+    "childResult": [1, 2, 11, 12, 13, 14, 15]
+  },
+  {
+    "shotResultId": 9,
+    "shotType": "Woohoo!",
+    "result": "Ball in the cup! Great shot!",
+    "distanceToGreen": 0,
+    "comment": "Proceed to the next hole",
+    "option": [
+      {
+        "par": 3,
+        "shotCount": 1,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 3,
+        "shotCount": 2,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 2,
+        "skillLevel": [3]
+      },
+      {
+        "par": 4,
+        "shotCount": 3,
+        "skillLevel": [2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 4,
+        "skillLevel": [1,2]
+      },
+      {
+        "par": 5,
+        "shotCount": 3,
+        "skillLevel": [2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 4,
+        "skillLevel": [1,2]
+      },
+      {
+        "par": 5,
+        "shotCount": 5,
+        "skillLevel": [1]
+      }
+    ],
+    "childResult": null
+  },
+  {
+    "shotResultId": 10,
+    "shotType": "Woohoo!",
+    "result": "Hole in one! Great shot!",
+    "distanceToGreen": 0,
+    "comment": "On to the next hole",
+    "option": [
+      {
+        "par": 3,
+        "shotCount": 1,
+        "skillLevel": [1,2,3]
+      }
+    ],
+    "childResult": null
+  },
+  {
+    "shotResultId": 11,
+    "shotType": "Fairway",
+    "result": "In uphill lie, the ball in the middle of the fairway",
+    "distanceToGreen": 0,
+    "comment": "Adjust your stance and grip when the ball is above your feet",
+    "option": [
+      {
+        "par": 3,
+        "shotCount": 1,
+        "skillLevel": [1,2]
+      },
+      {
+        "par": 4,
+        "shotCount": 2,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 3,
+        "skillLevel": [2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 2,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 3,
+        "skillLevel": [2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 4,
+        "skillLevel": [1,2]
+      }
+    ],
+    "childResult": null
+  },
+  {
+    "shotResultId": 12,
+    "shotType": "Fairway",
+    "result": "In downhill lie, the ball in the middle of the fairway",
+    "distanceToGreen": 0,
+    "comment": "Adjust your stance and grip when the ball is below your feet",
+    "option": [
+      {
+        "par": 3,
+        "shotCount": 1,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 2,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 3,
+        "skillLevel": [1,2]
+      },
+      {
+        "par": 5,
+        "shotCount": 2,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 3,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 4,
+        "skillLevel": [1,2]
+      }
+    ],
+    "childResult": null
+  },
+  {
+    "shotResultId": 13,
+    "shotType": "Rough",
+    "result": "In uphill lie, the ball in the first cut rough",
+    "distanceToGreen": 0,
+    "comment": "Adjust your stance and grip when the ball is above your feet",
+    "option": [
+      {
+        "par": 3,
+        "shotCount": 1,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 2,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 3,
+        "skillLevel": [1,2]
+      },
+      {
+        "par": 5,
+        "shotCount": 2,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 3,
+        "skillLevel": [1,2]
+      },
+      {
+        "par": 5,
+        "shotCount": 4,
+        "skillLevel": [1,2]
+      }
+    ],
+    "childResult": null
+  },
+  {
+    "shotResultId": 14,
+    "shotType": "Rough",
+    "result": "In downhill lie, the ball in the first cut rough",
+    "distanceToGreen": 0,
+    "comment": "Adjust your stance and grip when the ball is below your feet",
+    "option": [
+      {
+        "par": 3,
+        "shotCount": 1,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 2,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 3,
+        "skillLevel": [1,2]
+      },
+      {
+        "par": 5,
+        "shotCount": 2,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 3,
+        "skillLevel": [1,2]
+      },
+      {
+        "par": 5,
+        "shotCount": 4,
+        "skillLevel": [1,2]
+      }
+    ],
+    "childResult": null
+  },
+  {
+    "shotResultId": 15,
+    "shotType": "Water",
+    "result": "The ball is in the water!!",
+    "distanceToGreen": 0,
+    "comment": "Practice your ball drop and recovery routine",
+    "option": [
+      {
+        "par": 3,
+        "shotCount": 1,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 2,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 4,
+        "shotCount": 3,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 2,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 3,
+        "skillLevel": [1,2,3]
+      },
+      {
+        "par": 5,
+        "shotCount": 4,
+        "skillLevel": [1,2,3]
+      }
+    ],
+    "childResult": null
+  }
+]
